@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "js basics",
+  "license": "ISC",
+  "author": "Aaron Catzim",
+  "type": "module", 
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+
+  }
+}
